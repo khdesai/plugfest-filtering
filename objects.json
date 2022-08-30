@@ -142,7 +142,7 @@
 			"sighting_of_ref": "indicator--3600ad1b-fff1-4c98-bcc9-4de3bc2e2ffb",
 			"count": 50,
 			"first_seen": "2017-12-21T19:00:00.000Z",
-			"last_seen": "2018-01-06T19:00:00.000Z",
+			"last_seen": "2018-01-06T19:00:00.000Z"
 		},
 		{
 			"type": "relationship",
@@ -167,6 +167,6 @@
 			"indicator_types": [ "malicious-activity" ],
 			"pattern": "[ url:value = 'https://www.plugfest-continuation.test/filtering' ]",
 			"pattern_type": "stix"
-		},
+		}
 	]
 }
