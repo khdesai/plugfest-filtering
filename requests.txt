@@ -56,9 +56,9 @@
            /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[type]=campaign&match[type]=malware
            
 
-3.13.2.4)  /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[relationships-all]=indicator–-3600ad1b-fff1-4c98-bcc9-4de3bc2e2ffb
+3.13.2.4)  /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[relationships-all]=indicator--3600ad1b-fff1-4c98-bcc9-4de3bc2e2ffb
 
-           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[relationships-all]=indicator–-3600ad1b-fff1-4c98-bcc9-4de3bc2e2ffb
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[relationships-all]=indicator--3600ad1b-fff1-4c98-bcc9-4de3bc2e2ffb
            
 
 3.13.2.5) /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[confidence-gte]=90
