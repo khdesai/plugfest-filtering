@@ -1,27 +1,66 @@
-3.13.1.1)  /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/objects/?added_after=2022-08-29T 10:30:061Z
-           /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/objects/?added_after=2022-09-01T 10:30:061Z
+3.13.1.1)  /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?added_after=2022-08-29T10:30:061Z
+           /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?added_after=2022-09-01T10:30:061Z
+           
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?added_after=2022-08-29T10:30:061Z
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?added_after=2022-09-01T10:30:061Z
+           
 
-3.13.1.2)  /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/manifest/?limit=2
+3.13.1.2)  /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/manifest/?limit=2
 
-3.13.1.3)  /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/objects/?match[id]=indicator--fb07bb1e-9745-489f-9a4c-b17bf1e7aab1
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/manifest/?limit=2
+           
 
-3.13.1.4)  /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/objects/?match[type]=indicator
-           /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/manifest/?match[type]=indicator
+3.13.1.3)  /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[id]=indicator--fb07bb1e-9745-489f-9a4c-b17bf1e7aab1
 
-3.13.1.5)  /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/objects/indicator--cca8e422-8f15-48de-98f7-d0ab7767acfe/?match[version]=first
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[id]=indicator--fb07bb1e-9745-489f-9a4c-b17bf1e7aab1
+           
 
-3.13.1.6)  /api1/collections/91a7b528-80eb-42ed-a74d-c6fbd5a26116/objects/?match[spec_version]=2.1
-           /api1/collections/91a7b528-80eb-42ed-a74d-c6fbd5a26116/objects/?match[spec_version]=3.0
+3.13.1.4)  /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[type]=indicator
+           /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/manifest/?match[type]=indicator
+           
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[type]=indicator
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/manifest/?match[type]=indicator
+           
 
-3.13.1.7)  /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/objects/?match[type]=campaign,threat-actor
+3.13.1.5)  /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/indicator--cca8e422-8f15-48de-98f7-d0ab7767acfe/?match[version]=first
 
-3.13.1.8)  /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/objects/?match[spec_version]=2.1&match[id]=indicator--e9af88c8-e101-413a-a8d1-f869ad6d79b3
-           /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/objects/?match[spec_version]=3.0&match[id]=indicator--e9af88c8-e101-413a-a8d1-f869ad6d79b3
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/indicator--cca8e422-8f15-48de-98f7-d0ab7767acfe/?match[version]=first
+           
 
-3.13.1.9)  /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/objects/?match[type]=campaign,malware&match[version]=last
+3.13.1.6)  /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[spec_version]=2.1
+           /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[spec_version]=3.0
+           
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[spec_version]=2.1
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[spec_version]=3.0
+           
 
-3.13.1.10) /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/objects/?match[type]=campaign&match[type]=malware
+3.13.1.7)  /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[type]=campaign,threat-actor
 
-3.13.2.4)  /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/objects/?match[relationships-all]=indicator–-3600ad1b-fff1-4c98-bcc9-4de3bc2e2ffb
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[type]=campaign,threat-actor
+           
 
-3.13.2.5) /api1/collections/253900d3-b9dd-46df-8184-469380fae6d2/objects/?match[confidence-gte]=90
+3.13.1.8)  /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[spec_version]=2.1&match[id]=indicator--e9af88c8-e101-413a-a8d1-f869ad6d79b3
+           /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[spec_version]=3.0&match[id]=indicator--e9af88c8-e101-413a-a8d1-f869ad6d79b3
+           
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[spec_version]=2.1&match[id]=indicator--e9af88c8-e101-413a-a8d1-f869ad6d79b3
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[spec_version]=3.0&match[id]=indicator--e9af88c8-e101-413a-a8d1-f869ad6d79b3
+           
+
+3.13.1.9)  /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[type]=campaign,malware&match[version]=last
+
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[type]=campaign,malware&match[version]=last
+           
+
+3.13.1.10) /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[type]=campaign&match[type]=malware
+
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[type]=campaign&match[type]=malware
+           
+
+3.13.2.4)  /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[relationships-all]=indicator–-3600ad1b-fff1-4c98-bcc9-4de3bc2e2ffb
+
+           /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[relationships-all]=indicator–-3600ad1b-fff1-4c98-bcc9-4de3bc2e2ffb
+           
+
+3.13.2.5) /plugfest/collections/90eb0d1c-5bb5-4dc1-845d-fb5db7185200/objects/?match[confidence-gte]=90
+
+          /plugfest_2022_june/collections/acb1a73a-a6a3-43aa-9ded-fe35bae97867/objects/?match[confidence-gte]=90
